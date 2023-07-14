@@ -1,2 +1,2 @@
-# Dashboards-Using-IBM-Cognos-Analytics 01
+# Dashboards-Using-IBM-Cognos-Analytics
 Sales and Service
